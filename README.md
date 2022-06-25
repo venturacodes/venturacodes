@@ -1,15 +1,13 @@
 ### Hi there 👋
+<!--
 🧑🏽 ## About me
 ---
 My name is Arthur, from Lages/SC, Brazil. I'm a WEB Developer, currently learning JS in depth. 
 
 ## Stranger things, I already known
 ---
-
-
-
-
 Love to learn through small projects
+-->
 <!--
 **venturacodes/venturacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

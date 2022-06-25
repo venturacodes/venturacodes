@@ -1,13 +1,24 @@
 ### Hi there 👋
-<!--
-🧑🏽 ## About me
+## 🧑🏽 About me
 ---
+
 My name is Arthur, from Lages/SC, Brazil. I'm a WEB Developer, currently learning JS in depth. 
 
-## Stranger things, I already known
+## Testing
 ---
-Love to learn through small projects
--->
+* 💙 Learn through small pet projects is great, get PR accepted is even better;
+<!-- * 💚 GOF Bro's would be much better than Gang of four; -->
+* 💛 If you want to learn PHP, this is the [BEST BOOK EVER](https://www.amazon.com/Objects-Patterns-Practice-Experts-Source/dp/143022925X);
+ 
+
+~~~javascript
+console.log('Hello World!')
+~~~
+~~~php
+<?php
+echo "Hello World!";
+>
+~~~
 <!--
 **venturacodes/venturacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
